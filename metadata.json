@@ -1,0 +1,5 @@
+{
+  "name": "Homologador",
+  "description": "Herramienta experta para la homologación y liquidación de tarifas de salud en Colombia (CUPS, SOAT, ISS).",
+  "requestFramePermissions": []
+}
